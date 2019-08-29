@@ -3,7 +3,7 @@
 	padding : 0;
 }
 
-p{
+.header > p{
 	font-size: 60px;
 	color : white;
 	font-style: italic;
