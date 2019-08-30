@@ -1,22 +1,16 @@
 *{
-	margin : 0;
-	padding : 0;
+
 }
 
-.header > p{
+/*p{
 	font-size: 60px;
 	color : white;
 	font-style: italic;
 }
 
 td{
-	font-size: 60px;
+	font-size: 70px;
 	color : rgb(64, 64, 64);
-}
-
-marquee{
-	font-size : 40px;
-	color : white;
 }
 
 .header{
@@ -33,18 +27,11 @@ marquee{
 	width: 100%;
 	padding:     
 }
-
+*/
 .footer{
-	background-color : rgb(245, 98, 69);	
-	height: 20%;
+	background-color : rgb(110, 154, 219);	
+	position: absolute;
+	
+	height: 20px;
 	width: 100%;
-}
-
-
-.footer > p{
-	font-size: 30px;
-}
-
-p{
-	font-size: 10px;
 }
